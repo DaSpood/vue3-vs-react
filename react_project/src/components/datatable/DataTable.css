@@ -1,0 +1,12 @@
+.table-container table {
+    width: 400px;
+    border-collapse: collapse;
+}
+
+.table-container th, .table-container td {
+    padding: 4px;
+}
+
+.table-container table, .table-container th, .table-container td {
+    border: 1px solid;
+}
