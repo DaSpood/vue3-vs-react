@@ -12,13 +12,7 @@
                 <RouterLink to="/table">Tableau</RouterLink>
             </li>
             <li>
-                <RouterLink to="/popup">Popup</RouterLink>
-            </li>
-            <li>
                 <RouterLink to="/form">Formulaire</RouterLink>
-            </li>
-            <li>
-                <RouterLink to="/broken">CSS</RouterLink>
             </li>
         </ul>
     </nav>

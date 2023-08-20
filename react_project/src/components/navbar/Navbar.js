@@ -12,13 +12,7 @@ export default function Navbar() {
                     <Link to="/table">Tableau</Link>
                 </li>
                 <li>
-                    <Link to="/popup">Popup</Link>
-                </li>
-                <li>
                     <Link to="/form">Formulaire</Link>
-                </li>
-                <li>
-                    <Link to="/broken">CSS</Link>
                 </li>
             </ul>
         </nav>
